@@ -4,7 +4,7 @@
 
 Tired of reading 200-page PDFs like a normal person? same.
 
-Upload any document, ask it questions in plain English, get answers back with actual sources. No hallucinations (we literally measure those). Built this to actually understand RAG from scratch — not just copy paste from docs and pretend I know what's happening.
+Upload any document, ask it questions in plain English, get answers back with actual sources. No hallucinations (we literally measure those). Built this to actually understand RAG from scratch, not just copy paste from docs and pretend I know what's happening.
 
 ---
 
